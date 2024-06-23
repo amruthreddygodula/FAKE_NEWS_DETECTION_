@@ -1,8 +1,8 @@
 # Fake_News_Detection_
-<img src="https://github.com/amruthreddygodula/FAKE_NEWS_DETECTION_/assets/136502231/4a61b832-4936-4918-adac-ba261438d915" alt="main" width="300"/>
-<img src="https://github.com/amruthreddygodula/FAKE_NEWS_DETECTION_/assets/136502231/9024deb9-8853-4c4a-99ac-fc260e867f80" alt="predict" width="300"/>
-<img src="https://github.com/amruthreddygodula/FAKE_NEWS_DETECTION_/assets/136502231/ad4b3897-bb25-4d7a-90b3-343cc8d9d591" alt="visualization" width="300"/>
-<img src="https://github.com/amruthreddygodula/FAKE_NEWS_DETECTION_/assets/136502231/6b133c1c-a70e-4374-90da-d437f1fdea19" alt="wordcloud" width="300"/>
+<img src="https://github.com/amruthreddygodula/FAKE_NEWS_DETECTION_/assets/136502231/4a61b832-4936-4918-adac-ba261438d915" alt="main" width="500"/>
+<img src="https://github.com/amruthreddygodula/FAKE_NEWS_DETECTION_/assets/136502231/9024deb9-8853-4c4a-99ac-fc260e867f80" alt="predict" width="500"/>
+<img src="https://github.com/amruthreddygodula/FAKE_NEWS_DETECTION_/assets/136502231/ad4b3897-bb25-4d7a-90b3-343cc8d9d591" alt="visualization" width="500"/>
+<img src="https://github.com/amruthreddygodula/FAKE_NEWS_DETECTION_/assets/136502231/6b133c1c-a70e-4374-90da-d437f1fdea19" alt="wordcloud" width="500"/>
 
 
 ```markdown
