@@ -56,6 +56,7 @@ Ensure you have vscode installed ,including python extension.
 
 # Install Dependencies
 Install the required dependencies using pip:
+
 ```bash
 pip install -r requirements.txt
 ```
