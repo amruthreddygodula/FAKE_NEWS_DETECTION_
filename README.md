@@ -69,7 +69,7 @@ streamlit run stream.py
 # Using the page
 1. Enter the news text in the text area provided.
 2. Click on the 'Predict' button to see if the news is real or fake.
-3. The app will display the prediction result and the confidence score.
+3. The page will display the prediction result and the confidence score.
 
 Created with ❤️ by AMRUTH REDDY G
 
